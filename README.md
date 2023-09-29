@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+🔭 I'm currently working on not becoming insane over all of this 😊
+🌱 I’m currently learning some basic Python, and I'm taking at Data Science Course at Le Wagon in Berlin
+📫 How to reach me: htromm@gmail.com
+
 <!--
 **HellmuthTromm/HellmuthTromm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
